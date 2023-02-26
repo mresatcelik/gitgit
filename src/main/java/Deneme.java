@@ -3,5 +3,6 @@ public class Deneme {
         System.out.println("Merhaba Git-GitHup");
         System.out.println("githup a hos geldin");
         System.out.println("git hupta ne yapacaksın");
+        //ben githup tan geliyorum
     }
 }
