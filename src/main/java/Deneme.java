@@ -5,5 +5,8 @@ public class Deneme {
         System.out.println("git hupta ne yapacaksın");
         //ben githup tan geliyorum
         // ben intelij den geliyorum
+
+        //resat kod
+        //v66666666
     }
 }
